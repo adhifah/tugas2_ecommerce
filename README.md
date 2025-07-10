@@ -46,7 +46,16 @@
 - `account_screen.dart` – Profil pengguna, info akun, dan tombol logout
 
 ## Tampilan Aplikasi
-<img width="261" height="529" alt="login_screen" src="https://github.com/user-attachments/assets/235f0ada-e893-432a-8553-f84ebe73ce67" />
+<img width="245" height="517" alt="login_screen" src="https://github.com/user-attachments/assets/79f3dee5-3c0e-4b21-912b-864c71d97bb8" />
+<img width="250" height="518" alt="register" src="https://github.com/user-attachments/assets/645e473e-6a3e-4b56-bbaf-86b8bb803f30" />
+<img width="252" height="519" alt="account" src="https://github.com/user-attachments/assets/c088098b-6367-4277-b5de-d706678c794e" />
+<img width="251" height="518" alt="home" src="https://github.com/user-attachments/assets/e3637ca5-bb8c-4d52-8b57-07a6dc83abf1" />
+<img width="235" height="518" alt="detailproduk" src="https://github.com/user-attachments/assets/c92fb5a8-eab8-4916-b9fd-71f4e7ba97d7" />
+<img width="251" height="514" alt="checkout" src="https://github.com/user-attachments/assets/55394108-ac7b-4bc7-9820-70b69645672c" />
+<img width="250" height="515" alt="konfirmasibayar" src="https://github.com/user-attachments/assets/de109402-de8b-421d-acc9-020cdf646d12" />
+<img width="233" height="520" alt="formpembelian" src="https://github.com/user-attachments/assets/cf566f0d-3533-4cbe-b66c-1942edbd8290" />
+<img width="236" height="521" alt="animasisukses" src="https://github.com/user-attachments/assets/334629c1-164f-4ddd-b2a0-202e6ea3a6a8" />
+
 
 
 
