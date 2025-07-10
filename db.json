@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "1234",
+      "fullName": "Administrator"
+    },
+    {
+      "id": "be64",
+      "fullName": "adhifah",
+      "username": "adhifah11",
+      "password": "adhifah"
+    },
+    {
+      "id": "a1c5",
+      "fullName": "Jeong Jaehyun",
+      "username": "jaehyunjh",
+      "password": "jaehyun"
+    },
+    {
+      "id": "defd",
+      "fullName": "Yola Dwi Aprilia",
+      "username": "yoladwi",
+      "password": "yolavipul"
+    },
+    {
+      "id": "yxop1GY199Rwf47Z98XwiTnxVUo1",
+      "fullName": "Adhifah Arrofani",
+      "username": "adhifaharrofani",
+      "email": "sadifar@gmail.com",
+      "password": "sadifar"
+    },
+    {
+      "id": "09chXdph8rXDe8kQfqQMa9XB3By1",
+      "fullName": "sarah",
+      "username": "sarahp",
+      "email": "sarahp@gmail.com",
+      "password": "sarahp"
+    },
+    {
+      "id": "hlY4euT1EBTOmPVbxBmnwJGy9MN2",
+      "fullName": "Yola Dwi",
+      "username": "yolad",
+      "email": "yoladwi@gmail.com",
+      "password": "yoladwi"
+    }
+  ],
+  "products": [
+    {
+      "name": "Stanley Quencher Pink",
+      "price": 765000,
+      "image": "https://i.imgur.com/GblpBt8.jpeg",
+      "description": "Tetap stylish dan terhidrasi dengan Stanley Quencher Pink! Tumbler ikonik berwarna pink manis ini cocok buat kamu yang aktif dan suka tampil kece. Desainnya estetik, tahan panas & dingin, dan pas banget buat dibawa ke kampus, kantor, atau piknik sore.",
+      "id": "1"
+    },
+    {
+      "name": "Bunny Umbrella",
+      "price": 154000,
+      "image": "https://i.imgur.com/ML0fPLa.jpeg",
+      "description": "Hujan bukan halangan buat tampil lucu! Bunny Umbrella dengan motif kelinci yang menggemaskan ini siap temani kamu tetap ceria meski langit mendung. Ringan, kuat, dan bisa dilipat—praktis banget masuk ke tas kamu.",
+      "id": "2"
+    },
+    {
+      "name": "Shaun the Sheep Stuffed Backpack",
+      "price": 235000,
+      "image": "https://i.imgur.com/0d3esyQ.jpeg",
+      "description": "Tas ransel boneka ini bikin semua mata tertuju padamu! Shaun the Sheep Backpack lucu dan empuk, cocok buat gaya kasual atau sekadar bawa barang ringan sambil tampil beda. Kecil, tapi penuh karakter!",
+      "id": "3"
+    },
+    {
+      "name": "Panda Girl Outfit",
+      "price": 435000,
+      "image": "https://i.imgur.com/ez4P5lo.jpeg",
+      "description": "Look cute effortlessly dengan Panda Girl Outfit! Satu set baju super menggemaskan bertema panda ini siap bikin kamu jadi pusat perhatian. Cocok buat photoshoot, acara santai, atau nongkrong lucu bareng teman.",
+      "id": "4"
+    },
+    {
+      "name": "Cute Cartoon Socks Set",
+      "price": 57000,
+      "image": "https://i.imgur.com/w9hUBZh.jpeg",
+      "description": "Satu set kaos kaki lucu dengan motif kartun warna-warni yang bisa bikin mood kamu langsung naik! Cartoon Socks Set ini cocok banget buat kamu yang suka tampil playful dari atas sampai ujung kaki.",
+      "id": "5"
+    },
+    {
+      "name": "Keroppi Hoodie",
+      "price": 576000,
+      "image": "https://i.imgur.com/XHbKrUZ.jpeg",
+      "description": "Throwback vibes banget! Keroppi Hoodie hadir dengan desain klasik karakter Sanrio yang bikin nostalgia masa kecil. Bahannya tebal, nyaman, dan pastinya super cozy buat musim hujan atau sekadar gaya harian.",
+      "id": "6"
+    },
+    {
+      "name": "Knit Cardigan",
+      "price": 435000,
+      "image": "https://i.imgur.com/Hc6R3aj.jpeg",
+      "description": "Hangat, artsy, dan vintage! Knit Cardigan ini dihiasi motif rubah dan bunga liar yang memberi kesan cottagecore yang dreamy. Cocok buat kamu pecinta gaya estetika alami dan nyaman.",
+      "id": "7"
+    },
+    {
+      "name": "Bucket Knit Hat Flower",
+      "price": 259000,
+      "image": "https://i.imgur.com/U8ZurAp.jpeg",
+      "description": "Topi rajut unik dengan sentuhan bunga yang cantik ini bikin kamu tampil beda dan tetap cozy. Bucket Knit Hat Flower adalah aksesori wajib buat musim dingin, konser outdoor, atau sekadar nongkrong estetik.",
+      "id": "8"
+    },
+    {
+      "name": "Kiki’s Delivery Service Mug",
+      "price": 159000,
+      "image": "https://i.imgur.com/k6x5H5v.jpeg",
+      "description": "Mulai harimu dengan sentuhan Studio Ghibli! Kiki’s Delivery Service Mug punya ilustrasi lucu Kiki dan Jiji yang ikonik. Mug keramik ini cocok buat kopi pagi, cokelat hangat, atau jadi dekor rak lucu kamu.",
+      "id": "9"
+    },
+    {
+      "name": "Cartoon Cat Keychain",
+      "price": 69000,
+      "image": "https://i.imgur.com/FvUcpwT.jpeg",
+      "description": "Gemes banget! Cartoon Cat Keychain ini siap nemenin kunci, tas, atau dompet kamu jadi lebih berkarakter. Ganci imut ini juga cocok dijadiin kado kecil yang bikin senyum siapa pun yang dapet.",
+      "id": "10"
+    },
+    {
+      "name": "Converse Chuck Taylor High Top Pink",
+      "price": 1999000,
+      "image": "https://i.imgur.com/CyNYQIw.jpeg",
+      "description": "Sepatu legendaris dalam balutan warna pink yang manis! Converse Chuck Taylor High Top Pink cocok buat kamu yang berani tampil beda. Tahan lama, nyaman dipakai, dan pastinya cocok buat segala gaya!",
+      "id": "11"
+    },
+    {
+      "name": "Jeong Jaehyun",
+      "price": 1999999999,
+      "image": "https://i.imgur.com/wH76Eiu.jpeg",
+      "description": "Selamat, kamu menemukan item paling langka di dunia: Jeong Jaehyun, edisi boyfriend experience 24/7! Dengan senyum yang bisa menyembuhkan stres semester akhir dan tatapan yang bikin jantungmu ngelag, Jaehyun siap nemenin kamu nugas, nyuapin saat sakit, dan jadi partner nonton Kdrama sampai ketiduran bareng. Limited edition—tidak tersedia di toko mana pun kecuali di hati kamu dan SM Entertainment. Beli sekarang sebelum direbut fans lain. (Walau sebenarnya cuma bisa dilihat, nggak bisa dimiliki... tapi boleh mimpi, kan?)",
+      "id": "12"
+    }
+  ]
+}
