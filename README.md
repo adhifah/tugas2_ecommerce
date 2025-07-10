@@ -48,8 +48,8 @@
 ## Tampilan Aplikasi
 <img width="250" height="514" alt="login" src="https://github.com/user-attachments/assets/11326b32-ba1b-47da-898e-c6d93685126f" />
 <img width="248" height="514" alt="register" src="https://github.com/user-attachments/assets/c38ab171-f7b7-462e-ac4a-8fad5bde6e85" />
-<img width="252" height="519" alt="account" src="https://github.com/user-attachments/assets/c088098b-6367-4277-b5de-d706678c794e" />
-<img width="251" height="518" alt="home" src="https://github.com/user-attachments/assets/e3637ca5-bb8c-4d52-8b57-07a6dc83abf1" />
+<img width="250" height="519" alt="account" src="https://github.com/user-attachments/assets/c088098b-6367-4277-b5de-d706678c794e" />
+<img width="250" height="518" alt="home" src="https://github.com/user-attachments/assets/e3637ca5-bb8c-4d52-8b57-07a6dc83abf1" />
 <img width="235" height="518" alt="detailproduk" src="https://github.com/user-attachments/assets/c92fb5a8-eab8-4916-b9fd-71f4e7ba97d7" />
 <img width="251" height="514" alt="checkout" src="https://github.com/user-attachments/assets/55394108-ac7b-4bc7-9820-70b69645672c" />
 <img width="250" height="515" alt="konfirmasibayar" src="https://github.com/user-attachments/assets/de109402-de8b-421d-acc9-020cdf646d12" />
