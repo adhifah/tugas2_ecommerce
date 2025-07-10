@@ -101,10 +101,10 @@ class _RegisterScreenState extends State<RegisterScreen> {
               ),
               const SizedBox(height: 32),
 
-              _buildInputField(controller: nameCtrl, hint: "Full Name", icon: Icons.person),
+              _buildInputField(controller: nameCtrl, hint: "Nama Lengkap", icon: Icons.person),
               const SizedBox(height: 16),
 
-              _buildInputField(controller: userCtrl, hint: "Username", icon: Icons.account_circle),
+              _buildInputField(controller: userCtrl, hint: "Nama Pengguna", icon: Icons.account_circle),
               const SizedBox(height: 16),
 
               _buildInputField(controller: emailCtrl, hint: "Email", icon: Icons.email),
@@ -112,7 +112,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
 
               _buildInputField(
                 controller: passCtrl,
-                hint: "Password",
+                hint: "Kata Sandi",
                 icon: Icons.lock_outline,
                 obscure: true,
               ),
@@ -133,7 +133,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                     ),
                   ),
                   child: const Text(
-                    'Register',
+                    'Daftar',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 16,
@@ -153,11 +153,11 @@ class _RegisterScreenState extends State<RegisterScreen> {
                 },
                 child: const Text.rich(
                   TextSpan(
-                    text: "Already have an account? ",
+                    text: "Sudah Punya Akun? ",
                     style: TextStyle(color: Colors.grey),
                     children: [
                       TextSpan(
-                        text: "Login",
+                        text: "Masuk",
                         style: TextStyle(
                           color: Color(0xFF8B5E3C),
                           fontWeight: FontWeight.bold,

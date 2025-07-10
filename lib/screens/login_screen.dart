@@ -110,7 +110,7 @@ class LoginScreen extends StatelessWidget {
                   controller: passCtrl,
                   obscureText: true,
                   decoration: const InputDecoration(
-                    hintText: 'Password',
+                    hintText: 'Kata Sandi',
                     prefixIcon: Icon(Icons.lock_outline),
                     border: InputBorder.none,
                     contentPadding: EdgeInsets.symmetric(vertical: 18),
@@ -131,7 +131,7 @@ class LoginScreen extends StatelessWidget {
                     ),
                   ),
                   child: const Text(
-                    'Login',
+                    'Masuk',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 16,
