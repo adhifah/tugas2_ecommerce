@@ -46,8 +46,8 @@
 - `account_screen.dart` – Profil pengguna, info akun, dan tombol logout
 
 ## Tampilan Aplikasi
-<img width="245" height="517" alt="login_screen" src="https://github.com/user-attachments/assets/79f3dee5-3c0e-4b21-912b-864c71d97bb8" />
-<img width="250" height="518" alt="register" src="https://github.com/user-attachments/assets/645e473e-6a3e-4b56-bbaf-86b8bb803f30" />
+<img width="250" height="514" alt="login" src="https://github.com/user-attachments/assets/11326b32-ba1b-47da-898e-c6d93685126f" />
+<img width="248" height="514" alt="register" src="https://github.com/user-attachments/assets/c38ab171-f7b7-462e-ac4a-8fad5bde6e85" />
 <img width="252" height="519" alt="account" src="https://github.com/user-attachments/assets/c088098b-6367-4277-b5de-d706678c794e" />
 <img width="251" height="518" alt="home" src="https://github.com/user-attachments/assets/e3637ca5-bb8c-4d52-8b57-07a6dc83abf1" />
 <img width="235" height="518" alt="detailproduk" src="https://github.com/user-attachments/assets/c92fb5a8-eab8-4916-b9fd-71f4e7ba97d7" />
